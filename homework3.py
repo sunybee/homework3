@@ -1,5 +1,5 @@
 __author__ = 'SUN'
-# 第一次python
+# 第一次python1
 
 ##给我和对手赋值血量和攻击力
 my_hp = 1000
